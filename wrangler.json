@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "90dfa5c5-da59-4cab-a048-bba8e93f7db7",
+			"database_name": "ems-incidents"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
